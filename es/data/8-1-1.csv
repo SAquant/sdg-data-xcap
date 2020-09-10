@@ -1,9 +1,4 @@
-Year,Category,Value
-2016,GDP in Millions of Dollars,296.36
-2017,GDP in Millions of Dollars,349.55
-2018,GDP in Millions of Dollars,368.29
-2019,GDP in Millions of Dollars,351.44
-2020,GDP in Millions of Dollars,325.0
+Year,Units,Value
 2016,Per capita real GDP growth rate,-7.18
 2017,Per capita real GDP growth rate,15.22
 2018,Per capita real GDP growth rate,5.09
